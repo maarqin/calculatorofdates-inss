@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38883ede-bb69-4c93-ad3a-152819fb6ee5" name="Default" comment="" />
+    <ignored path="wilian.date.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wilian.date" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="109" lean-forward="false" selection-start-line="53" selection-start-column="109" selection-end-line="53" selection-end-column="109" />
+              <folding>
+                <element signature="e#2159#2165#0#HTML" expanded="true" />
+                <element signature="e#2442#2448#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+                <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+                <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculate.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="145" column="13" lean-forward="true" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+                <element signature="e#1566#1590#0#HTML" expanded="true" />
+                <element signature="e#1750#1792#0#HTML" expanded="true" />
+                <element signature="e#2310#2352#0#HTML" expanded="true" />
+                <element signature="e#2398#2440#0#HTML" expanded="true" />
+                <element signature="e#2487#2529#0#HTML" expanded="true" />
+                <element signature="e#2576#2618#0#HTML" expanded="true" />
+                <element signature="e#2665#2707#0#HTML" expanded="true" />
+                <element signature="e#2749#2791#0#HTML" expanded="true" />
+                <element signature="e#2833#2875#0#HTML" expanded="true" />
+                <element signature="e#2917#2959#0#HTML" expanded="true" />
+                <element signature="e#3029#3071#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interval.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interval.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" column="32" lean-forward="false" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="32" />
+              <folding>
+                <element signature="e#24#41#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>date_diff</find>
+      <find>adicional</find>
+      <find>$_POST['sexo']</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Test.php" />
+        <option value="$PROJECT_DIR$/src/Calendar.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/js/jquery-3.2.1.min.js" />
+        <option value="$PROJECT_DIR$/src/Interval.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/Calculate.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1341" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wilian.date" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculatorofdates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wilian.date" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculatorofdates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="" />
+      <option name="params" value="" />
+      <module name="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangUnitRunConfigurationType" factoryName="Erlang Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <module name="" />
+      <option name="functionNames">
+        <set />
+      </option>
+      <option name="kind" value="MODULE" />
+      <option name="moduleNames">
+        <set />
+      </option>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="RebarEunitRunConfigurationType" factoryName="Erlang Rebar Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="command" value="eunit" />
+      <option name="skipDependencies" value="true" />
+      <module name="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38883ede-bb69-4c93-ad3a-152819fb6ee5" name="Default" comment="" />
+      <created>1509586184642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509586184642</updated>
+      <workItem from="1514858000054" duration="71000" />
+      <workItem from="1514858096330" duration="134000" />
+      <workItem from="1514858257953" duration="5800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="-1057" width="1341" height="873" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26099926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="182" column="80" lean-forward="false" selection-start-line="182" selection-start-column="44" selection-end-line="182" selection-end-column="87" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="69" lean-forward="false" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="69" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="85" column="23" lean-forward="false" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="22484" lean-forward="false" selection-start-line="3" selection-start-column="22484" selection-end-line="3" selection-end-column="22484" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_3.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date_c.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477">
+          <caret line="555" column="6" lean-forward="false" selection-start-line="555" selection-start-column="6" selection-end-line="555" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="109" lean-forward="false" selection-start-line="53" selection-start-column="109" selection-end-line="53" selection-end-column="109" />
+          <folding>
+            <element signature="e#2159#2165#0#HTML" expanded="true" />
+            <element signature="e#2442#2448#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1514862542000" expanded="true" signature="3285:3291" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3481:3487" ph=" " />
+            <marker date="1514862542000" expanded="true" signature="3502:3517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="32" lean-forward="false" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="145" column="13" lean-forward="true" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#1566#1590#0#HTML" expanded="true" />
+            <element signature="e#1750#1792#0#HTML" expanded="true" />
+            <element signature="e#2310#2352#0#HTML" expanded="true" />
+            <element signature="e#2398#2440#0#HTML" expanded="true" />
+            <element signature="e#2487#2529#0#HTML" expanded="true" />
+            <element signature="e#2576#2618#0#HTML" expanded="true" />
+            <element signature="e#2665#2707#0#HTML" expanded="true" />
+            <element signature="e#2749#2791#0#HTML" expanded="true" />
+            <element signature="e#2833#2875#0#HTML" expanded="true" />
+            <element signature="e#2917#2959#0#HTML" expanded="true" />
+            <element signature="e#3029#3071#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
